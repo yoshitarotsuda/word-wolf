@@ -17,10 +17,11 @@ input{
   text-shadow: 0 0 2px #000, 4px 4px 2px rgba(0,0,0,0.5);
 }
 
-textarea{
-}
-
 .main-box{
   display:flex;
   padding:5px;
+}
+
+.right-box{
+  margin-left: 10px;
 }
